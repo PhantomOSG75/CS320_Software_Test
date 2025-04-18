@@ -1,1 +1,2 @@
-# CS320_Software_Test
+# Appointment
+This the Appointment class used for testing
